@@ -42,4 +42,4 @@ Part 6
 	Also, I thought I had to make the README.md file in github, but I already have a file from Lab 1 called README.md.
 2. vim README.md
 3. right click
-4. git add README.md, git commit, git push 	I see the README.md file.
+4. git add README.md, git commit, git push 	I see the README.md file, DirA, and DirB.
