@@ -40,7 +40,6 @@ result:
 9.1
 9.2
 9.3
-
 6. 'sort input.txt > output.txt'
 result:
 2
@@ -87,7 +86,6 @@ fi
 ###Part 5
 
 2. Usage guide (not listing again since its at the top of the file)
-3. 'git add https://github.com/bargaisabelle/Fall2020-CEG2350.git
-', 'git commit', 'git pull', 'git push'
+3. 'git add Lab03', 'git commit', 'git push'
 
 '''
