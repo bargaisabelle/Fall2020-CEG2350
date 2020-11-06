@@ -1,4 +1,3 @@
-#! /bin/bash
 while :
 do
 	echo "just keep swimming" >> ~/git/Fall2020-CEG2350/Lab07/still-going.txt
