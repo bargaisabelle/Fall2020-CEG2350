@@ -1,0 +1,7 @@
+#! /bin/bash
+while :
+do
+	echo "i wish i liked coffee" >> ~/git/Fall2020-CEG2350/Lab07/still-going.txt
+        sleep 15
+done
+
